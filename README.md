@@ -25,3 +25,9 @@ BONUS Steps : - swat the ball away
               - intercept the ball with another ball
               - catch and then throw (this will involve training the program to identify hands or people) back to the person
 
+Log 1 : 
+- The project is going to be pursued as a simulation rather than actual coding for a robot
+- Godot could be used due to the State Chart modules
+- I will have to learn State Charts and my knowledge on godot scripts is limited as of right now
+- However, I want to code my own state charts because I think this will be a good learning experence and partly because using game engines al
+- 
